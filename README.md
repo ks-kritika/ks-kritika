@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kritika Sinha</h1>
+<h1 align="center">Hi 👋,                    I'm Kritika Sinha</h1>
 <h3 align="center">I am a third-year undergraduate student pursuing Bachelor of Technology degree in Electronics & Communication Engineering at Praneer Singh Institute of Technology (PSIT), Kanpur. I am passionate about coding and learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-kritika&label=Profile%20views&color=0e75b6&style=flat" alt="ks-kritika" /> </p>
