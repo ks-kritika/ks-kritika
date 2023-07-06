@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋,                    I'm Kritika Sinha</h1>
-<h3 align="center">I am a third-year undergraduate student pursuing Bachelor of Technology degree in Electronics & Communication Engineering at Praneer Singh Institute of Technology (PSIT), Kanpur. I am passionate about coding and learning new technologies.</h3>
+<h3 align="center">I hold a bachelor's degree in Electronics & Communication Engineering from Praneer Singh Institute of Technology (PSIT), Kanpur. I am passionate about coding and learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-kritika&label=Profile%20views&color=0e75b6&style=flat" alt="ks-kritika" /> </p>
 
-- 🔭 I’m currently working on **building a portfolio website using React Js**
+- 🔭 I’m currently working on **enhancing my skills in springboot**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Springboot, Websocket**
 
-- 👯 I’m looking to collaborate on **Development projects**
-
-- 💬 Ask me about **Data Structures, Competitive coding, Machine learning**
+- 💬 Ask me about **Data Structures, Competitive coding, and Machine learning**
 
 - 📫 How to reach me **kritikasinha798@gmail.com**
 
